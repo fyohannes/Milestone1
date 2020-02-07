@@ -1,0 +1,8 @@
+---
+title: "Milestone_1"
+author: "Feven Yohannes"
+date: "February 7, 2020"
+output: html_document
+---
+
+For my final project, I'm considering to replicate a paper called "Can Extreme Poverty in Sub-Saharan Africa be Eliminated by 2030?" by Zorobabel Bicabaa, Zuzana Brixiová, and Mthuli Ncube. This paper looks at data from the World Bank and argues that with certain conditions, poverty rates can be reduced, although not eradicated, in Sub-Saharan Africa. I'm excited to explore the topic of African Economic Development as I am hoping to use some of this data in my senior thesis. 
